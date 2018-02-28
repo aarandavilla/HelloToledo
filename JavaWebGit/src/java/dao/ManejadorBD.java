@@ -11,4 +11,10 @@ package dao;
  */
 public class ManejadorBD {
     
+
+
+public ManejadorBD() {
+    
+}
+
 }
