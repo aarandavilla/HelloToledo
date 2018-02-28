@@ -11,7 +11,7 @@ package dao;
  */
 public class ManejadorBD {
     
-
+private String nombre;
 
 public ManejadorBD() {
     
